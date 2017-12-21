@@ -1,0 +1,7 @@
+1	priyansh	11601003
+2	prabhat	11601045
+3	amit	11601007
+4	prabhat	11601006
+5	maneel	11601009
+6	abhi	11601054
+7	prabhat	11601230
